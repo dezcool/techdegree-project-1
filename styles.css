@@ -90,7 +90,7 @@ header .profile-image:hover {
   background-color: #efefef;
   color: black;
   padding: 15px;
-  border-radius: 5px solid;
+  border-radius: 5px;
   border: 3px solid;
   opacity: 0.8;
   display: table;
@@ -101,7 +101,8 @@ header .profile-image:hover {
   color: #2e7eed;
 }
 .card {
-  margin: 30px;
+  margin: 10px;
+  margin-top: 60px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
